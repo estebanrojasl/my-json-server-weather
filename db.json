@@ -50,7 +50,7 @@
                     "humidity": 90
                 },
                 "weather": {
-                    "main": "Rain",
+                    "main": "Rainy",
                     "description": "soft rains"
                 },
                 "wind": {
