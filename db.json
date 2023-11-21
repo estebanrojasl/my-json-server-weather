@@ -1,0 +1,67 @@
+{
+    "list": [
+        {
+            "main": {
+                "temp": 19,
+                "feels_like": 21,
+                "temp_min": 14,
+                "temp_max": 25,
+                "pressure": 1080,
+                "humidity": 80
+            },
+            "weather": {
+                "main": "Sunny",
+                "description": "mostly sunny"
+            },
+            "wind": {
+                "speed": 35,
+                "deg": 90
+            }
+        },
+        {
+            "main": {
+                "temp": 21,
+                "feels_like": 22,
+                "temp_min": 14,
+                "temp_max": 28,
+                "pressure": 1010,
+                "humidity": 85
+            },
+            "weather": {
+                "main": "Cloudy",
+                "description": "scattered clouds"
+            },
+            "wind": {
+                "speed": 25,
+                "deg": 170
+            }
+        },
+        {
+            "main": {
+                "temp": 18,
+                "feels_like": 22,
+                "temp_min": 14,
+                "temp_max": 21,
+                "pressure": 1018,
+                "humidity": 90
+            },
+            "weather": {
+                "main": "Rain",
+                "description": "mostly rainy"
+            },
+            "wind": {
+                "speed": 15,
+                "deg": 120
+            }
+        }
+    ],
+    "city": {
+        "id": 3682631,
+        "name": "Envigado",
+        "coord": {
+            "lat": 6.168,
+            "lon": -75.5951
+        },
+        "country": "CO"
+    }
+}
